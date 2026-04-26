@@ -10,6 +10,7 @@ public class TypeCasting {
         byte a2=(byte)a1;
         System.out.println(a1+" "+a2);
         System.out.println("***********");
+        System.out.println("***********");
 
 
     }
